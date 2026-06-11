@@ -1,144 +1,179 @@
-                                                       🚀 Job Portal Management System
+<div align="center">
 
-A Full Stack Job Portal Management System built using React.js, Spring Boot, MySQL and JWT Authentication.
+# 🚀 Job Portal Management System
 
-✨ Features
-👨‍💼 Candidate Module
+### Full Stack Job Portal built with React.js, Spring Boot, MySQL & JWT Authentication
 
-User Registration & Login
+</div>
 
-JWT Authentication
+---
 
-Candidate Dashboard
+## 📖 Overview
 
-Update Profile
+Job Portal Management System is a Full Stack web application that connects job seekers and recruiters on a single platform.
 
-Upload Resume Link
+Candidates can search and apply for jobs, while recruiters can post jobs, manage applications, and track candidate status.
 
-Search Jobs
+---
 
-Apply For Jobs
+## ✨ Key Features
 
-View Applied Jobs
+### 👨‍💼 Candidate Module
 
-Track Application Status
+* User Registration & Login
+* JWT Authentication
+* Candidate Dashboard
+* Profile Management
+* Search Jobs
+* Apply for Jobs
+* Track Application Status
 
-🏢 Recruiter Module
+### 🏢 Recruiter Module
 
-Recruiter Registration & Login
+* Recruiter Login
+* Post New Jobs
+* Manage Jobs
+* View Applications
+* Update Application Status
+* Dashboard Management
 
-Recruiter Dashboard
+---
 
-Post New Jobs
+## 🛠️ Tech Stack
 
-View Applicants
+| Technology      | Used               |
+| --------------- | ------------------ |
+| Frontend        | React.js           |
+| Styling         | Bootstrap          |
+| Backend         | Spring Boot        |
+| Security        | JWT Authentication |
+| Database        | MySQL              |
+| ORM             | Spring Data JPA    |
+| API Testing     | Postman            |
+| Version Control | Git & GitHub       |
 
-Manage Applications
+---
 
-Select / Reject Candidates
+## 📸 Project Screenshots
 
-🛠️ Tech Stack
-Frontend
+### 🔐 Login Page
 
-⚛️ React.js
-
-🎨 Bootstrap 5
-
-🔗 Axios
-
-🛣️ React Router DOM
-
-Backend
-
-☕ Spring Boot
-
-📦 Spring Data JPA
-
-🔐 Spring Security
-
-🪪 JWT Authentication
-
-⚙️ Maven
-
-Database
-
-🗄️ MySQL
-
-Tools Used
-
-💻 VS Code
-
-🧠 IntelliJ IDEA
-
-🛢️ MySQL Workbench
-
-🐙 Git & GitHub
-
-📬 Postman
-
-📸 Application Screenshots
-## 📸 Screenshots
-
-### Login Page
 ![Login](Screenshots/Login.png)
 
-### Register Page
+### 📝 Register Page
+
 ![Register](Screenshots/Register.png)
 
-### Candidate Dashboard
-![Candidate Dashboard](Screenshots/Candidate%20Dashboard.png)
+### 📊 Candidate Dashboard
 
-### Profile Page
+![Dashboard](Screenshots/Candidate%20Dashboard.png)
+
+### 👤 Profile Management
+
 ![Profile](Screenshots/Profile.png)
 
-### Jobs Page
+### 💼 Available Jobs
+
 ![Jobs](Screenshots/Jobs.png)
 
-### Apply Job
+### 📨 Apply For Job
+
 ![Apply](Screenshots/Apply.png)
 
-### My Applications
+### 📋 My Applications
+
 ![My Applications](Screenshots/My%20Application.png)
 
-### Admin Dashboard
+### ⚙️ Admin Dashboard
+
 ![Admin Dashboard](Screenshots/Admin%20Dashboard.png)
 
-### Job Applications
+### 📑 Job Applications
+
 ![Job Application](Screenshots/Job%20Application.png)
-🎥 Project Demo
 
-Demo Video Available Inside:
+---
 
+## 🎥 Project Demo
+
+Demo video available inside:
+
+```text
 Video/JobportalDemo.mp4
-💻 Installation
-Frontend
-Backend
-⚙️ Database Configuration
+```
 
-Update application.properties
+---
 
-👨‍🎓 Developed By
+## 📂 Project Structure
 
-Vijay Prajapati
+```text
+Job-Portal-Management-System
+│
+├── frontend
+├── backend
+├── Screenshots
+└── Video
+```
+
+---
+
+## 🚀 Run Locally
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend
+
+```bash
+cd backend
+mvn spring-boot:run
+```
+
+---
+
+## 🔐 Security Features
+
+* JWT Token Authentication
+* Role Based Access Control
+* Secure REST APIs
+* Protected Routes
+
+---
+
+## 🌟 Project Highlights
+
+✔ Full Stack Development
+
+✔ JWT Security
+
+✔ REST APIs
+
+✔ Role Based Access
+
+✔ MySQL Integration
+
+✔ Responsive User Interface
+
+✔ Real World Project
+
+---
+
+## 👨‍💻 Developer
+
+### Vijay Prajapati
 
 B.Sc IT Graduate
 
 Java Full Stack Developer
 
-GitHub: https://github.com/vijaymp1214
+GitHub:
+https://github.com/vijaymp1214
 
-⭐ Future Enhancements
+---
 
-Resume Upload Feature
-
-Email Notifications
-
-Interview Scheduling
-
-Admin Analytics Dashboard
-
-Company Profiles
-
-🌟 Show Your Support
-
-If you like this project, don't forget to ⭐ Star the repository.
+⭐ If you like this project, don't forget to star the repository.
