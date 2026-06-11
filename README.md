@@ -1,4 +1,4 @@
-🚀 Job Portal Management System
+                                                       🚀 Job Portal Management System
 
 A Full Stack Job Portal Management System built using React.js, Spring Boot, MySQL and JWT Authentication.
 
